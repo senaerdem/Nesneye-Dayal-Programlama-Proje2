@@ -1,0 +1,10 @@
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\bin\Debug\FaturaYazdirmaOdev.exe.config
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\bin\Debug\FaturaYazdirmaOdev.exe
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\bin\Debug\FaturaYazdirmaOdev.pdb
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\obj\Debug\FaturaYazdirmaOdev.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\obj\Debug\FaturaYazdirmaOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\obj\Debug\FaturaYazdirmaOdev.Properties.Resources.resources
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\obj\Debug\FaturaYazdirmaOdev.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\obj\Debug\FaturaYazdirmaOdev.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\obj\Debug\FaturaYazdirmaOdev.exe
+C:\Users\muham\source\repos\FaturaYazdirmaOdev\FaturaYazdirmaOdev\obj\Debug\FaturaYazdirmaOdev.pdb
